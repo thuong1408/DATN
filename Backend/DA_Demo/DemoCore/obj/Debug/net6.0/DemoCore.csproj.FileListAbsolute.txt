@@ -1,0 +1,12 @@
+D:\DATN\DA_Demo\DemoCore\bin\Debug\net6.0\DemoCore.deps.json
+D:\DATN\DA_Demo\DemoCore\bin\Debug\net6.0\DemoCore.dll
+D:\DATN\DA_Demo\DemoCore\bin\Debug\net6.0\DemoCore.pdb
+D:\DATN\DA_Demo\DemoCore\obj\Debug\net6.0\DemoCore.csproj.AssemblyReference.cache
+D:\DATN\DA_Demo\DemoCore\obj\Debug\net6.0\DemoCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN\DA_Demo\DemoCore\obj\Debug\net6.0\DemoCore.AssemblyInfoInputs.cache
+D:\DATN\DA_Demo\DemoCore\obj\Debug\net6.0\DemoCore.AssemblyInfo.cs
+D:\DATN\DA_Demo\DemoCore\obj\Debug\net6.0\DemoCore.csproj.CoreCompileInputs.cache
+D:\DATN\DA_Demo\DemoCore\obj\Debug\net6.0\DemoCore.dll
+D:\DATN\DA_Demo\DemoCore\obj\Debug\net6.0\refint\DemoCore.dll
+D:\DATN\DA_Demo\DemoCore\obj\Debug\net6.0\DemoCore.pdb
+D:\DATN\DA_Demo\DemoCore\obj\Debug\net6.0\ref\DemoCore.dll

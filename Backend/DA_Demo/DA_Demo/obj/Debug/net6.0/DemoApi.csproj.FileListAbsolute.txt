@@ -1,0 +1,6 @@
+D:\DATN\DA_Demo\DA_Demo\obj\Debug\net6.0\DemoApi.csproj.AssemblyReference.cache
+D:\DATN\DA_Demo\DA_Demo\obj\Debug\net6.0\DemoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN\DA_Demo\DA_Demo\obj\Debug\net6.0\DemoApi.AssemblyInfoInputs.cache
+D:\DATN\DA_Demo\DA_Demo\obj\Debug\net6.0\DemoApi.AssemblyInfo.cs
+D:\DATN\DA_Demo\DA_Demo\obj\Debug\net6.0\DemoApi.csproj.CoreCompileInputs.cache
+D:\DATN\DA_Demo\DA_Demo\obj\Debug\net6.0\DemoApi.MvcApplicationPartsAssemblyInfo.cache

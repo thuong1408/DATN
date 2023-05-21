@@ -1,0 +1,15 @@
+D:\DATN\DA_Demo\DemoInfracstructure\obj\Debug\net6.0\DemoInfracstructure.csproj.AssemblyReference.cache
+D:\DATN\DA_Demo\DemoInfracstructure\obj\Debug\net6.0\DemoInfracstructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN\DA_Demo\DemoInfracstructure\obj\Debug\net6.0\DemoInfracstructure.AssemblyInfoInputs.cache
+D:\DATN\DA_Demo\DemoInfracstructure\obj\Debug\net6.0\DemoInfracstructure.AssemblyInfo.cs
+D:\DATN\DA_Demo\DemoInfracstructure\obj\Debug\net6.0\DemoInfracstructure.csproj.CoreCompileInputs.cache
+D:\DATN\DA_Demo\DemoInfracstructure\bin\Debug\net6.0\DemoInfracstructure.deps.json
+D:\DATN\DA_Demo\DemoInfracstructure\bin\Debug\net6.0\DemoInfracstructure.dll
+D:\DATN\DA_Demo\DemoInfracstructure\bin\Debug\net6.0\DemoInfracstructure.pdb
+D:\DATN\DA_Demo\DemoInfracstructure\bin\Debug\net6.0\DemoCore.dll
+D:\DATN\DA_Demo\DemoInfracstructure\bin\Debug\net6.0\DemoCore.pdb
+D:\DATN\DA_Demo\DemoInfracstructure\obj\Debug\net6.0\DemoInfracstructure.csproj.CopyComplete
+D:\DATN\DA_Demo\DemoInfracstructure\obj\Debug\net6.0\DemoInfracstructure.dll
+D:\DATN\DA_Demo\DemoInfracstructure\obj\Debug\net6.0\refint\DemoInfracstructure.dll
+D:\DATN\DA_Demo\DemoInfracstructure\obj\Debug\net6.0\DemoInfracstructure.pdb
+D:\DATN\DA_Demo\DemoInfracstructure\obj\Debug\net6.0\ref\DemoInfracstructure.dll
